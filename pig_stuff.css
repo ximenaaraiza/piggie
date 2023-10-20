@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(255, 228, 251);
+}
+.fresa-img{
+    display:flex;
+    justify-content: center;
+    margin:0vw 0vw 5vw 0vw;
+    height:10vw
+}
+
+p{
+    font-size: 1.2vw;
+    font-family: 'Cormorant Garamond', serif;
+    margin: 0vw 5vw 0vw 5vw;
+}
+
+h1{
+    color:rgba(255, 136, 201, 0.671);
+    text-align: center;
+    font-size: 5vw;
+    text-shadow: 5px 5px 5px rgb(191, 32, 53);
+    margin: 40px 0px 10px 0px 
+}
+
+h2{
+    color:rgb(255, 171, 238);
+    text-align: center;
+    font-size:1.5vw;
+    text-shadow: 1px 2px 2px rgb(182, 43, 78);
+}
+
+.bar{
+    height: 5vw;
+    width: 22%;
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+    padding:0vw 0vw 0vw 1vw
+    
+}
+
+.tool{
+    height: 3vw;
+    border: solid 1vw white;
+}
+
+button{
+    background-color: white;
+    border:white ;
+    padding: 0vw;
+    height:3vw
+}

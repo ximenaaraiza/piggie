@@ -1,0 +1,109 @@
+body{
+    background-color: rgb(255, 228, 251);
+} 
+.bar{
+    height: 5vw;
+    width: 22%;
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+    padding:0vw 0vw 0vw 1vw
+    
+}
+
+.tool{
+    height: 3vw;
+    border: solid 1vw white;
+}
+
+button{
+    background-color: white;
+    border:white ;
+    padding: 0vw;
+    height:3vw
+}
+
+
+h1{
+    color:rgba(255, 136, 201, 0.671);
+    text-align: center;
+    font-size: 5vw;
+    text-shadow: 5px 5px 5px rgb(191, 32, 53);
+    margin: 40px 0px 0px 0px 
+}
+
+.main{
+    display: flex;
+    width:100%
+}
+
+.pancake{
+    width:25%;
+    height:20vw;
+    float:left;
+
+}
+
+.esther{
+    width:25%;
+    height:20vw;
+}
+
+.fairy{
+   
+    width:25%;
+    height:20vw
+}
+
+.charlotte{
+    width:25%;
+    height:20vw;
+}
+
+.syrup{
+    height:14vw;
+    margin: 1vw 0vw 0vw 6vw;
+}
+
+p{
+font-family:Georgia, 'Times New Roman', Times, serif; 
+color: rgb(193, 193, 255);
+text-shadow: 2px 2px 2px rgb(15, 13, 14);
+font-size: 1.5vw;
+}
+
+.web{
+    font-size: 1vw;
+    margin:1vw 10.5vw 1vw 7vw; 
+    border-bottom: 1px solid black ;
+
+}
+
+.Olivia{
+    font-size: 1vw;
+    margin:1vw 6.8vw 1vw 5vw;
+    border-bottom: 1px black solid;
+} 
+
+.wonder{
+    font-size:1vw;
+    margin:1vw 9.3vw 1vw 6.7vw;
+    border-bottom: 1px black solid;
+}
+
+.pig{
+    font-size:1vw;
+    margin:1vw 6.5vw 1vw 6.2vw;
+    border-bottom: 1px rgb(12, 11, 11) solid;
+}
+.bunny{
+    height:10vw;
+    margin:2vw 0vw 0vw 7vw
+    
+}
+
+.oink{
+    margin:2vw 0vw 0vw 7vw 
+}
+
+
+
